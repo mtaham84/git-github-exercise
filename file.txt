@@ -4,6 +4,7 @@ second commit from mtaham84:main
 third commit from mtaham84:main
 first commit from mtaham84:develop
 second commit from mtaham84:develop
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 third commit from mtaham84:develop
 forth commit from mtaham84:develop
@@ -12,3 +13,6 @@ first commit on feature from mtaham84
 second commit on feature from mtaham84
 third commit on feature from mtaham84
 >>>>>>> Stashed changes
+=======
+first commit on feature from mtaham84
+>>>>>>> f690cb6 (first commit on feature from mtaham84)
